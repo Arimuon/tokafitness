@@ -1,0 +1,7 @@
+# Blocks search engines from indexing the site as this is a development project
+User-agent: *
+Disallow: /
+
+
+
+
